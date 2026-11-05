@@ -1,0 +1,8 @@
+{
+  "name": "SayerPro Cierre",
+  "description": "Sistema integral de control financiero, conciliación de cierres de mes, auditoría multi-sucursal y tableros directivos para Sayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
